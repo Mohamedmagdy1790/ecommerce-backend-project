@@ -7,7 +7,7 @@ create table customer(
     custUsername varchar(20),
     custAdress varchar(100),
     custCity varchar(20),
-    custCountry varchar(20)
+    custCountry varchar(22)
 
 );
 
