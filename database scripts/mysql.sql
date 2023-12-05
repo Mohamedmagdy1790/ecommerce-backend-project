@@ -1,7 +1,7 @@
 create table customer(
 
     custId int primary key auto_increment ,
-    custName varchar(40) not null,
+    custName varchar(30) not null,
     custEmail varchar(40) not null ,
     custPassword varchar(30) not null,
     custUsername varchar(20),
